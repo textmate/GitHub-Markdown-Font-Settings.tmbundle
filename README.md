@@ -4,7 +4,8 @@ Provides nicer fonts for the [GitHub Flavoured Markdown for TextMate bundle](htt
 ## Features
 - Use San Francisco for the Markdown editor font and make it match the preview size
 - Use Menlo for the Markdown editor monospaced text font and make it match the preview size
-- Render all Markdown editor headings using the default font (i.e. San Francisco)
+- Use the default font size for the Markdown editor hash/pound prefix
+- Render all Markdown editor headings the same relative size and font as in the preview
 
 ## Installation
 ### TextMate 2

@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Raw Font Name</string>
+	<string>Heading 3 Font Size</string>
 	<key>scope</key>
-	<string>markup.raw.block, markup.raw, meta.raw.block, markup.raw.inline</string>
+	<string>markup.heading.3.markdown</string>
 	<key>settings</key>
 	<dict>
-		<key>fontName</key>
-		<string>Menlo</string>
+		<key>fontSize</key>
+		<string>1.17em</string>
 	</dict>
 	<key>uuid</key>
-	<string>0A70B5FF-6962-41BF-945E-D0FFFD819F59</string>
+	<string>974C7F72-3026-4FCE-B101-AEA9678F48B9</string>
 </dict>
 </plist>
