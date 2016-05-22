@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>Mike McQuaid</string>
 	<key>description</key>
-	<string>GitHub Flavoured Markdown font settings for TextMate</string>
+	<string>GFM body, heading and raw font styling.</string>
 	<key>name</key>
 	<string>Markdown (GitHub) Font Settings</string>
 	<key>uuid</key>
