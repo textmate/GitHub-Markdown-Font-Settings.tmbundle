@@ -9,6 +9,9 @@ Provides nicer fonts for the [GitHub Flavoured Markdown for TextMate bundle](htt
 
 ## Installation
 ### TextMate 2
+Check "Markdown (GitHub) Font Settings" in TextMate 2's Preferences' Bundles.
+
+Alternatively:
 ```bash
 mkdir -p ~/Library/Application\ Support/Avian/Bundles
 cd ~/Library/Application\ Support/Avian/Bundles
