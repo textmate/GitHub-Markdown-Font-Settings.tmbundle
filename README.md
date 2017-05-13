@@ -8,22 +8,13 @@ Provides nicer fonts for the [GitHub Flavoured Markdown for TextMate bundle](htt
 - Render all Markdown editor headings the same relative size and font as in the preview
 
 ## Installation
-### TextMate 2
 Check "Markdown (GitHub) Font Settings" in TextMate 2's Preferences' Bundles.
 
 Alternatively:
 ```bash
-mkdir -p ~/Library/Application\ Support/Avian/Bundles
-cd ~/Library/Application\ Support/Avian/Bundles
-git clone https://github.com/mikemcquaid/GitHub-Markdown-Font-Settings.tmbundle
-```
-
-### TextMate 1
-```bash
 mkdir -p ~/Library/Application\ Support/TextMate/Bundles
 cd ~/Library/Application\ Support/TextMate/Bundles
 git clone https://github.com/mikemcquaid/GitHub-Markdown-Font-Settings.tmbundle
-osascript -e 'tell app "TextMate" to reload bundles'
 ```
 
 ## Status
